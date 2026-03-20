@@ -7,7 +7,7 @@
 Unlike typical embedded implementations, this project is **not limited to microcontrollers**. Instead, it introduces a **general-purpose interaction model** that can be applied across multiple domains including:
 
 * 🌾 Agriculture
-* 🛡️ Military communication systems
+* 🛡️ Remote communication systems
 * 🔐 Security and access control
 * 🏥 Healthcare systems
 * 🏭 Industrial automation
